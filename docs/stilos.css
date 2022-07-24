@@ -17,7 +17,7 @@ body{
     font-family: var(--fonte-destaq);
 }
 main#parte-cima{
-    background-image: linear-gradient(to bottom, #b9c424,#8f1b1b);
+    background-image: linear-gradient(to bottom, #3BD47F,#1A5C38);
     top: 100px;
     width: 100%;
     margin-top: -22px;
