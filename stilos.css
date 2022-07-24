@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+
+@font-face {
+    font-family: 'android';
+    src: url('fontes/idroid.otf') format(opentapy);
+    font-weight: normal;
+}
+
+:root{
+    --fonte-p:Arial, Helvetica, sans-serif;
+    --fonte-destaq:android;
+}
+
+body{
+    background-color: #84E1AD;
+    font-family: var(--fonte-destaq);
+}
+main#parte-cima{
+    background-image: linear-gradient(to bottom, #3BD47F,#1A5C38);
+    top: 100px;
+    width: 100%;
+    margin-top: -22px;
+    padding: 10px;
+}
+h1.titulo{
+    text-align: center;
+}
+p.titulo{
+    text-align: center;
+}
+main#corpo{
+    border-top: 0px;
+    min-width:320px;
+    max-width: 800px;
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+    box-shadow: 0px 0px 10px black;
+}
+h2.fundo{
+    background-color: #E2F5EA;
+    color: #3B7756;
+}
+h1.fundo2{
+    color: #3B7756;
+}
+img#img1{
+    width: 100%;
+}
+img#imag2{
+    width: 100%;
+}
+li.go11{
+    display: inline-block;
+    border:5px, #3BD47F;
+    padding: 2px;
+}
+li:hover{
+    background-color: #3ad47f;
+}
+a.f01{
+    text-decoration: none;
+    color: black;
+}
+img.fotoo{
+    display: block;
+    margin: auto;
+}
+div.g01{
+    padding: -6px;
+    background-color: #155532;
+    margin: 0px -8px -14px -10px;
+}
+h1.g02{
+    font-size:1.2em;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+li{
+    display: block;
+}
