@@ -1,4 +1,6 @@
-<link rel="stylesheet" type="text/css" href="css.css">
+<html lang="pt-br">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css.css">
 <body>
     <h2>👋Oi, eu sou @otaciliomartins</h2>
     <h2>👀Estou interessado: front-end e back-and</h2>
@@ -6,3 +8,4 @@
     <h2>📫Como chegar até mim: instagram <a href="https://www.instagram.com/otacilio858/"> @otacilio858</a></h2>
     <a href="https://otaciliomartins.github.io/site-android/docs/">projeto android</a>
 </body>
+</html>
