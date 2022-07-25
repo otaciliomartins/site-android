@@ -2,7 +2,10 @@
 html{
     background-color: darkgray;
 }
+body{
+    background-color: darkgrey;
+}
 a{
     text-align: center;
-    text-align: 2em;
+    text-align: 3em;
 }
