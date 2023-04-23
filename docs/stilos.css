@@ -54,14 +54,18 @@ img#imag2{
 li.go11{
     display: inline-block;
     border:5px, #3BD47F;
-    padding: 2px;
+    padding: 4px;
 }
 li:hover{
-    background-color: #3ad47f;
+    background-color: #525654;
+    color: white;
 }
 a.f01{
     text-decoration: none;
     color: black;
+}
+a:hover{
+    color: white;
 }
 img.fotoo{
     display: block;
@@ -81,3 +85,4 @@ h1.g02{
 li{
     display: block;
 }
+
